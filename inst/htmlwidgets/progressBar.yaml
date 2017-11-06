@@ -1,0 +1,5 @@
+dependencies:
+ - name: progressbar
+   version: 1.0.1
+   src: htmlwidgets/lib/progressbar-1.0.1
+   script: progressbar.min.js
