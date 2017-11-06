@@ -14,6 +14,12 @@
 #' @param width,height dimensions of container.
 #' @param elementId id of container.
 #'
+#' @exportClass
+#' progressBar(0.1)
+#'
+#' progressBar(0.9) %>%
+#'   progressCircle()
+#'
 #' @import htmlwidgets
 #'
 #' @export
